@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38186930f6a98f5439572f0956f7ac4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gustoDeHelado: FRU
+  gustoDeHelado: DDL
   cantidadDeHelado: 3000
 --- !u!4 &74807645
 Transform:

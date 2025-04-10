@@ -29,7 +29,7 @@ public class Heladeria : MonoBehaviour
             Debug.Log("codigo no valido");
             return;
         }
-        Debug.Log(precioHelado);
+        Debug.Log("El precio es " + precioHelado + "$");
 
     }
 
